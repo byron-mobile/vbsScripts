@@ -10,7 +10,7 @@ So you have used TechX today. Thank you! Here is what is included:
 - Support with other versions of Windows
 - Message Box Tests
 - Organization to show what items are compatible with your OS!
----------------------------------------------------------------------
+
 Updates:
 6/1/19 5:51 PM- Created. (Beta Stage) 
 6/1/19 5:56 PM- Compatibility Stuff (Beta Stage)
@@ -25,5 +25,5 @@ Updates:
 8/25/19 1:17 PM- Organized and plenty more UI fixes
 8/27/19 7:39 PM- Added 1 new feature in the Boot Tools
 8/27/19 7:54 PM- Now open on GitHub!
-----------------------------------------------------------------------
+
 Made by byrontall.
