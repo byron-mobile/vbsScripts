@@ -1,1 +1,0 @@
-x=msgbox ("Message box test - No Logo, No Title.")
