@@ -38,4 +38,6 @@ Updates:
 
 8/27/19 7:54 PM- Now open on GitHub!
 
+8/28/19 8:44 AM- I will no longer show fixes here because GitHub makes it easier, but I did add 1 new folder and made a lot of fixes!!!
+
 Made by byrontall.
