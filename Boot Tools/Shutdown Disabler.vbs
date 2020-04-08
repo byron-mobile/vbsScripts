@@ -4,7 +4,6 @@ Dim x,shell
 
 
 set shell= CreateObject("Wscript.Shell")
-x=msgbox("Shutdown Abort Panel is running Version 1.5!", 1+64+4096,"Update Notices")
 
 	x=msgbox("Would you like to abort a current shutdown?",1+32+4096,"Shutdown Admin Panel")
 	if x=2 then msgbox "Canceled Shutdown Aborter.", 1+16,"Aborted"
