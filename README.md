@@ -1,11 +1,7 @@
-# SuperScripts
+# vbsScripts
+This project has been archived, sorry 10 year old me. But now I make real software.
 
 
-A small series of scripts to do anything. I don't really know what use it has.
-
-
-# Why?
-Because I was bored one day.
 
 
 
